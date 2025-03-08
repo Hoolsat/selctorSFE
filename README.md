@@ -1,7 +1,7 @@
 //
 //  StickerSelectorView.swift
 //  CollageBuilder
-//
+/
 
 import SwiftUI
 
